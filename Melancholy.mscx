@@ -43,7 +43,7 @@ p, li { white-space: pre-wrap; }
       </sig>
     </siglist>
   <tempolist fix="2">
-    <tempo tick="0">1.16667</tempo>
+    <tempo tick="0">1.1</tempo>
     <tempo tick="2400">1.16667</tempo>
     </tempolist>
   <Part>
@@ -124,34 +124,34 @@ p, li { white-space: pre-wrap; }
         </Text>
       </VBox>
     <Measure number="1">
+      <StaffText>
+        <style>23</style>
+        <subtype>Staff</subtype>
+        <offset x="9.83781" y="-3.77023"/>
+        <pos x="21.7912" y="-7.77023"/>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:10pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MScore1';">=64-68</span></p></body></html>
+          </html-data>
+        </StaffText>
       <Tempo>
-        <tempo>1.16667</tempo>
+        <tempo>1.1</tempo>
         <style>14</style>
         <subtype>Tempo</subtype>
-        <offset x="-8.09641" y="-0.683463"/>
-        <pos x="3.85694" y="-6.93346"/>
+        <offset x="-11.0842" y="-1.23158"/>
+        <pos x="0.869139" y="-7.48158"/>
         <systemFlag>1</systemFlag>
         <frame>0</frame>
         <html-data>
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
 </style></head><body style=" font-family:'Times New Roman'; font-size:12pt; font-weight:600; font-style:normal;">
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Andante</p></body></html>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">With a heavy heart</p></body></html>
           </html-data>
         </Tempo>
-      <StaffText>
-        <style>23</style>
-        <subtype>Staff</subtype>
-        <offset x="1.52465" y="-3.15445"/>
-        <pos x="13.478" y="-7.15445"/>
-        <frame>0</frame>
-        <html-data>
-<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
-p, li { white-space: pre-wrap; }
-</style></head><body style=" font-family:'Times New Roman'; font-size:10pt; font-weight:400; font-style:normal;">
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MScore1';">=66-70</span></p></body></html>
-          </html-data>
-        </StaffText>
       <Clef>
         <subtype>4</subtype>
         </Clef>
@@ -553,13 +553,18 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <track>1</track>
         <tick>10080</tick>
+        <trailingSpace>2</trailingSpace>
         <durationType>quarter</durationType>
         <Note>
+          <offset x="1" y="0"/>
+          <pos x="1" y="1.5"/>
           <track>1</track>
           <pitch>52</pitch>
           <tpc>18</tpc>
           </Note>
         <Note>
+          <offset x="1" y="0"/>
+          <pos x="1" y="-0.5"/>
           <track>1</track>
           <pitch>58</pitch>
           <tpc>12</tpc>
@@ -933,7 +938,6 @@ p, li { white-space: pre-wrap; }
         <dots>1</dots>
         <durationType>half</durationType>
         <Note>
-          <selected>1</selected>
           <pitch>41</pitch>
           <tpc>13</tpc>
           </Note>
@@ -1050,5 +1054,5 @@ p, li { white-space: pre-wrap; }
         </Rest>
       </Measure>
     </Staff>
-  <cursorTrack>4</cursorTrack>
+  <cursorTrack>-1</cursorTrack>
   </museScore>
