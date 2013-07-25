@@ -385,7 +385,18 @@ p, li { white-space: pre-wrap; }
 <table border="0" style="-qt-table-type: root; margin-top:1px; margin-bottom:1px; margin-left:1px; margin-right:1px;">
 <tr>
 <td style="border: none;">
-<p align="right" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Pistos</p></td></tr></table></body></html>
+<p align="right" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">by: Pistos</p></td></tr></table></body></html>
+          </html-data>
+        </Text>
+      <Text>
+        <style>5</style>
+        <subtype>Poet</subtype>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Lora'; font-size:12pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">v1.0</p></body></html>
           </html-data>
         </Text>
       </VBox>
@@ -3435,6 +3446,8 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <dots>1</dots>
         <durationType>half</durationType>
+        <Articulation>
+          </Articulation>
         <Note>
           <pitch>53</pitch>
           <tpc>13</tpc>
@@ -4308,6 +4321,10 @@ p, li { white-space: pre-wrap; }
         <dots>1</dots>
         <durationType>half</durationType>
         <Note>
+          <pitch>37</pitch>
+          <tpc>9</tpc>
+          </Note>
+        <Note>
           <pitch>49</pitch>
           <tpc>9</tpc>
           </Note>
@@ -4327,6 +4344,12 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <dots>1</dots>
         <durationType>half</durationType>
+        <Articulation>
+          </Articulation>
+        <Note>
+          <pitch>37</pitch>
+          <tpc>9</tpc>
+          </Note>
         <Note>
           <pitch>49</pitch>
           <tpc>9</tpc>
@@ -4334,5 +4357,5 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     </Staff>
-  <cursorTrack>0</cursorTrack>
+  <cursorTrack>4</cursorTrack>
   </museScore>
