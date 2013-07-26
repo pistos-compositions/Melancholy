@@ -289,7 +289,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-0.447212" y="0.559014"/>
       <off2 x="4.69572" y="0"/>
       <offset x="-0.447212" y="0.559014"/>
-      <pos x="32.4802" y="95.669"/>
+      <pos x="32.5017" y="95.669"/>
       </Segment>
     </HairPin>
   <HairPin>
@@ -299,7 +299,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-0.111803" y="1.78884"/>
       <off2 x="4.91933" y="0"/>
       <offset x="-0.111803" y="1.78884"/>
-      <pos x="101.922" y="96.8988"/>
+      <pos x="102.072" y="96.8988"/>
       </Segment>
     </HairPin>
   <HairPin>
@@ -330,13 +330,49 @@ p, li { white-space: pre-wrap; }
       </Segment>
     </HairPin>
   <HairPin>
-    <subtype>1</subtype>
-    <track>1</track>
-    <tick>64800</tick>
-    <tick2>65280</tick2>
+    <tick>1440</tick>
+    <tick2>1920</tick2>
+    <Segment>
+      <off1 x="0" y="-1.96429"/>
+      <off2 x="4.25595" y="0"/>
+      <offset x="0" y="-1.96429"/>
+      <pos x="32.6072" y="30.6676"/>
+      </Segment>
+    </HairPin>
+  <HairPin>
+    <tick>12960</tick>
+    <tick2>13440</tick2>
+    <Segment>
+      <off1 x="0.327381" y="-1.8006"/>
+      <off2 x="3.92857" y="0"/>
+      <offset x="0.327381" y="-1.8006"/>
+      <pos x="30.3722" y="62.0703"/>
+      </Segment>
+    </HairPin>
+  <HairPin>
+    <tick>36000</tick>
+    <tick2>36480</tick2>
+    <Segment>
+      <off1 x="0" y="-0.491071"/>
+      <off2 x="4.74702" y="0"/>
+      <offset x="0" y="-0.491071"/>
+      <pos x="30.3468" y="128.009"/>
+      </Segment>
+    </HairPin>
+  <HairPin>
+    <tick>44640</tick>
+    <tick2>45120</tick2>
     <Segment>
       <off1 x="0" y="0"/>
-      <off2 x="4.06556" y="0"/>
+      <off2 x="4.91071" y="0"/>
+      </Segment>
+    </HairPin>
+  <HairPin>
+    <tick>47520</tick>
+    <tick2>48000</tick2>
+    <Segment>
+      <off1 x="0" y="0"/>
+      <off2 x="4.25595" y="0"/>
       </Segment>
     </HairPin>
   <Staff id="1">
@@ -391,12 +427,16 @@ p, li { white-space: pre-wrap; }
       <Text>
         <style>5</style>
         <subtype>Poet</subtype>
+        <selected>1</selected>
         <frame>0</frame>
         <html-data>
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
-</style></head><body style=" font-family:'Lora'; font-size:12pt; font-weight:400; font-style:normal;">
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">v1.0</p></body></html>
+</style></head><body style=" font-family:'Lora'; font-size:8pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:1px; margin-bottom:1px; margin-left:1px; margin-right:1px;">
+<tr>
+<td style="border: none;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">v1.0</p></td></tr></table></body></html>
           </html-data>
         </Text>
       </VBox>
@@ -404,8 +444,8 @@ p, li { white-space: pre-wrap; }
       <StaffText>
         <style>23</style>
         <subtype>Staff</subtype>
-        <offset x="11.2772" y="-5.12231"/>
-        <pos x="23.2138" y="-9.12231"/>
+        <offset x="6.6445" y="-5.03573"/>
+        <pos x="18.5812" y="-9.03573"/>
         <frame>0</frame>
         <html-data>
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
@@ -418,8 +458,8 @@ p, li { white-space: pre-wrap; }
         <tempo>1.1</tempo>
         <style>14</style>
         <subtype>Tempo</subtype>
-        <offset x="-5.21884" y="-2.71372"/>
-        <pos x="6.71785" y="-9.24348"/>
+        <offset x="-9.48254" y="-2.46345"/>
+        <pos x="2.45415" y="-8.99321"/>
         <systemFlag>1</systemFlag>
         <frame>0</frame>
         <html-data>
@@ -557,6 +597,19 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="3">
+      <StaffText>
+        <style>23</style>
+        <subtype>Staff</subtype>
+        <offset x="-26.0268" y="23.8988"/>
+        <pos x="-24.8268" y="19.8988"/>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:10.08pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Use pedal throughout, judiciously</p></body></html>
+          </html-data>
+        </StaffText>
       <Chord>
         <dots>1</dots>
         <durationType>half</durationType>
@@ -1774,11 +1827,6 @@ p, li { white-space: pre-wrap; }
           <tpc>15</tpc>
           </Note>
         </Chord>
-      <Rest>
-        <track>1</track>
-        <tick>33120</tick>
-        <durationType>measure</durationType>
-        </Rest>
       </Measure>
     <Measure number="25">
       <Text>
@@ -2569,6 +2617,18 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="38">
+      <Dynamic>
+        <style>12</style>
+        <offset x="-0.933795" y="0.413309"/>
+        <pos x="0.742383" y="6.18117"/>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:12.096pt; font-weight:400; font-style:italic;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:12pt;">cresc.   -   -   -   -   -   -</span></p></body></html>
+          </html-data>
+        </Dynamic>
       <Chord>
         <durationType>quarter</durationType>
         <Note>
@@ -2885,7 +2945,21 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="43">
+      <Dynamic>
+        <style>12</style>
+        <offset x="-0.146663" y="0.668085"/>
+        <pos x="4.65379" y="6.43594"/>
+        <tick>60960</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:12.096pt; font-weight:400; font-style:italic;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:12pt;">dim.   -   -   -   -   -   -   -   -   -   -   -   -   -   -</span></p></body></html>
+          </html-data>
+        </Dynamic>
       <Chord>
+        <tick>60480</tick>
         <dots>1</dots>
         <durationType>half</durationType>
         <Note>
@@ -3842,10 +3916,9 @@ p, li { white-space: pre-wrap; }
     <Measure number="23">
       <Dynamic>
         <style>12</style>
-        <subtype>mp</subtype>
-        <offset x="-1.21663" y="-10.2804"/>
-        <pos x="-0.01663" y="7.39441"/>
-        <frame>0</frame>
+        <subtype>p</subtype>
+        <offset x="-0.65538" y="-10.564"/>
+        <pos x="0.54462" y="7.11079"/>
         </Dynamic>
       <Chord>
         <dots>1</dots>
@@ -4317,6 +4390,12 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="51">
+      <Dynamic>
+        <style>12</style>
+        <subtype>p</subtype>
+        <offset x="-0.0986356" y="-12.1377"/>
+        <pos x="1.10136" y="7.73243"/>
+        </Dynamic>
       <Chord>
         <dots>1</dots>
         <durationType>half</durationType>
@@ -4335,7 +4414,7 @@ p, li { white-space: pre-wrap; }
         <dots>1</dots>
         <durationType>half</durationType>
         <Note>
-          <pitch>54</pitch>
+          <pitch>42</pitch>
           <tpc>8</tpc>
           </Note>
         </Chord>
@@ -4345,6 +4424,8 @@ p, li { white-space: pre-wrap; }
         <dots>1</dots>
         <durationType>half</durationType>
         <Articulation>
+          <offset x="0" y="-1.35281"/>
+          <pos x="0.694992" y="-1.85281"/>
           </Articulation>
         <Note>
           <pitch>37</pitch>
@@ -4357,5 +4438,5 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     </Staff>
-  <cursorTrack>4</cursorTrack>
+  <cursorTrack>-1</cursorTrack>
   </museScore>
